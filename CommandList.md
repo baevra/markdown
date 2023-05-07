@@ -1,0 +1,6 @@
+- `ls -a` просмотр файлов в папке (-a флаг для отображения скрытых файлов)
+- `cd [path]` переход в папку [path] (прим. `cd ~/Desktop`)
+- `mkdir [path]` создание папки [path] (прим. `mkdir mydir`)
+- `touch [filename]` создание файла [filename] (прим. `touch myfile`)
+- `vim [filename]` создание файла и переход в редактор vim (прим. `vim myfile`)
+- `rm -rf [path]` удаляет файл или папку [path]
